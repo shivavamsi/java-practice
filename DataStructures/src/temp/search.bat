@@ -1,0 +1,3 @@
+findstr "HashSet" *.java
+
+pause
